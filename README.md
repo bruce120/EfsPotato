@@ -9,6 +9,10 @@
 	#for 2.0/3.5
 	C:\Windows\Microsoft.Net\Framework\V3.5\csc.exe EfsPotato.cs -nowarn:1691,618
 	C:\Windows\Microsoft.Net\Framework\V3.5\csc.exe /platform:x86 EfsPotato.cs -nowarn:1691,618
+	
+	#修改版
+	C:\Windows\Microsoft.Net\Framework\V3.5\csc.exe EfsPotato_new.cs -nowarn:1691,618
+	C:\Windows\Microsoft.Net\Framework\V3.5\csc.exe /platform:x86 EfsPotato_new.cs -nowarn:1691,61
 
 ### usage
 
